@@ -1,0 +1,23 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "@nomiclabs/hardhat-etherscan": "^2.1.8",
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.12.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.8.1",
+    "dotenv": "^16.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
